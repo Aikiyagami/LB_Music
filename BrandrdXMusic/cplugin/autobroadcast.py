@@ -11,7 +11,7 @@ from BrandrdXMusic.core.mongo import mongodb, pymongodb
 
 AUTO_GCAST = True
 
-START_IMG_URLS = "https://graph.org/file/cc290ee58069d09a1ade7.jpg"
+START_IMG_URLS = "https://graph.org/file/1a361043662abcbe0e01a.jpg"
 
 MESSAGES = f"""**✅
 
@@ -22,8 +22,8 @@ BUTTONS = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(
-                "๏ BRAND ๏",
-                url=f"https://t.me/learningbots79",
+                "๏ MASTER ๏",
+                url=f"https://t.me/AI_LELOUCH",
             )
         ]
     ]
@@ -37,14 +37,14 @@ MESSAGE = f"""**๏ ᴛʜɪs ɪs ᴀᴅᴠᴀɴᴄᴇᴅ ᴍᴜsɪᴄ ᴘʟᴀʏ
 
 🔐ᴜꜱᴇ » [/start](https://t.me/LB_Music_Bot?start=help) ᴛᴏ ᴄʜᴇᴄᴋ ʙᴏᴛ
 
-➲ ʙᴏᴛ :** @LB_Music_Bot"""
+➲ ʙᴏᴛ :** @HU_TAO_XBOT"""
 
 BUTTON = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(
                 "๏ ᴋɪᴅɴᴀᴘ ᴍᴇ ๏",
-                url=f"https://t.me/LB_Music_Bot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users",
+                url=f"https://t.me/HU_TAO_XBOT",
             )
         ]
     ]
