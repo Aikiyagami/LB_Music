@@ -90,13 +90,13 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://graph.org/file/f4582691db4d7301431e9.jpg", "https://graph.org/file/9db70cb7ab32299aad914.jpg", "https://graph.org/file/0ce0901a95ec7cd5897df.jpg", "https://graph.org/file/77f3c9955282f900213de.jpg", "https://graph.org/file/88007011ac6e07b92aa92.jpg"
+    "START_IMG_URL", "https://graph.org/file/f4582691db4d7301431e9.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://graph.org/file/b0e39b61c92af66f6aaf8.jpg", "https://graph.org/file/0fa70daf640d9dcf7c05a.jpg", "https://graph.org/file/65030dc9f2c0d53c9621d.jpg", "https://graph.org/file/1a361043662abcbe0e01a.jpg", "https://graph.org/file/b3410bcd7f85c3b6c448b.jpg"
+    "PING_IMG_URL", "https://graph.org/file/0fa70daf640d9dcf7c05a.jpg"
 )
 PLAYLIST_IMG_URL = "https://graph.org/file/b0e39b61c92af66f6aaf8.jpg"
-STATS_IMG_URL = "https://graph.org/file/b0e39b61c92af66f6aaf8.jpg", "https://graph.org/file/0fa70daf640d9dcf7c05a.jpg", "https://graph.org/file/65030dc9f2c0d53c9621d.jpg", "https://graph.org/file/65030dc9f2c0d53c9621d.jpg", "https://graph.org/file/1a361043662abcbe0e01a.jpg", "https://graph.org/file/b3410bcd7f85c3b6c448b.jpg"
+STATS_IMG_URL = "https://graph.org/file/65030dc9f2c0d53c9621d.jpg"
 TELEGRAM_AUDIO_URL = "https://graph.org/file/b0e39b61c92af66f6aaf8.jpg"
 TELEGRAM_VIDEO_URL = "https://graph.org/file/b0e39b61c92af66f6aaf8.jpg"
 STREAM_IMG_URL = "https://graph.org/file/b0e39b61c92af66f6aaf8.jpg"
