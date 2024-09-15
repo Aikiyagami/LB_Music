@@ -2,12 +2,12 @@
 
 from requests import get
 
-import Emilia.strings as strings
-from Emilia import telethn as meow
-from Emilia.custom_filter import register
-from Emilia.functions.admins import is_admin
-from Emilia.mongo.nsfw_mongo import is_nsfw_on, nsfw_off, nsfw_on
-from Emilia.utils.decorators import *
+import BrandrdxMusic.strings as strings
+from BrandrdxMusic import telethn as meow
+from BrandrdxMusic.custom_filter import register
+from BrandrdxMusic.functions.admins import is_admin
+from BrandrdxMusic.mongo.nsfw_mongo import is_nsfw_on, nsfw_off, nsfw_on
+from BrandrdxMusic.utils.decorators import *
 
 url_nsfw = "https://api.waifu.pics/nsfw/"
 
