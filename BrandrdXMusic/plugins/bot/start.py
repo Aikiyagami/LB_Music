@@ -5,27 +5,27 @@ from Mikobot import BOT_USERNAME, OWNER_ID, SUPPORT_CHAT
 
 # <============================================== CONSTANTS =========================================================>
 START_IMG = [
-    "https://telegra.ph/file/27d19ab9fcc9f7d6baa24.jpg",
-    "https://telegra.ph/file/352f774670535d133a152.jpg",
-    "https://telegra.ph/file/c47c2460f30c3d45bfda9.jpg",
-    "https://telegra.ph/file/d073798b5f1d8f4b8ab06.jpg",
-    "https://telegra.ph/file/60f9b3b350a8fd2d742ba.jpg",
-    "https://telegra.ph/file/f66c6e609c0c4933f7c15.jpg",
-    "https://telegra.ph/file/38be78f0c602d573b24ea.jpg",
+    "https://graph.org/file/9db70cb7ab32299aad914.jpg",
+    "https://graph.org/file/0ce0901a95ec7cd5897df.jpg",
+    "https://graph.org/file/88007011ac6e07b92aa92.jpg",
+    "https://graph.org/file/77f3c9955282f900213de.jpg",
+    "https://graph.org/file/9db70cb7ab32299aad914.jpg",
+    "https://graph.org/file/9db70cb7ab32299aad914.jpg",
+    "https://graph.org/file/0ce0901a95ec7cd5897df.jpg",
 ]
 
-HEY_IMG = "https://telegra.ph/file/27d19ab9fcc9f7d6baa24.jpg"
+HEY_IMG = "https://graph.org/file/b0e39b61c92af66f6aaf8.jpg"
 
 ALIVE_ANIMATION = [
-    "https://graph.org/file/88588f0bc3aa006b7a3fb.mp4",
-    "https://graph.org/file/88588f0bc3aa006b7a3fb.mp4",
-    "https://graph.org/file/88588f0bc3aa006b7a3fb.mp4",
-    "https://graph.org/file/88588f0bc3aa006b7a3fb.mp4",
+    "https://graph.org/file/65030dc9f2c0d53c9621d.jpg",
+    "https://graph.org/file/0fa70daf640d9dcf7c05a.jpg",
+    "https://graph.org/file/b0e39b61c92af66f6aaf8.jpg",
+    "https://graph.org/file/88007011ac6e07b92aa92.jpg",
 ]
 
 FIRST_PART_TEXT = "⚡️ *ʜᴇʟʟᴏ* {} . . ."
 
-PM_START_TEXT = "⚡️ *ɪ ᴀᴍ ushio, ᴀ Summer time rendering ᴛʜᴇᴍᴇᴅ ʀᴏʙᴏᴛ ᴀɴᴅ ɪ ʜᴀᴠᴇ sᴘᴇᴄɪᴀʟ ғᴇᴀᴛᴜʀᴇs.*"
+PM_START_TEXT = "✨ ɪ ᴀᴍ 𝙷𝚞𝚝𝚊𝚘, ᴀ ɢᴇɴꜱʜɪɴ ɪᴍᴘᴀᴄᴛ ᴛʜᴇᴍᴇᴅ ʀᴏʙᴏᴛ ᴡʜɪᴄʜ ᴄᴀɴ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ᴍᴀɴᴀɢᴇ ᴀɴᴅ ꜱᴇᴄᴜʀᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ʜᴜɢᴇ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ"
 
 START_BTN = [
     [
@@ -69,12 +69,12 @@ ALIVE_BTN = [
             text="⛩ 𝙍𝙚𝙘𝙧𝙪𝙞𝙩 𝙈𝙚 ⛩",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         ),
-        ib(text="𝗦𝗨𝗣𝗣𝗢𝗥𝗧⚡️", url="https://t.me/naruto_support1"),
+        ib(text="𝗦𝗨𝗣𝗣𝗢𝗥𝗧⚡️", url="https://t.me/beasts_community"),
     ],
 ]
 
 HELP_STRINGS = """
-*𝗨𝗦𝗛𝗜𝗢-𝗞𝗢𝗙𝗨𝗡* 
+*𝙷𝚞𝚝𝚊𝚘* 
 
 *Here, you will find a list of all the available commands.*
 
