@@ -51,9 +51,9 @@ async def palm_chatbot(client, message):
 
 
 __help__ = """
-➦ *Write Miko with any sentence it will work as chatbot.*
+➦ *Write hutao with any sentence it will work as chatbot.*
 
-*Example*: Miko are you a bot?
+*Example*: hutao are you a bot?
 """
 
 __mod_name__ = "CHATBOT"
