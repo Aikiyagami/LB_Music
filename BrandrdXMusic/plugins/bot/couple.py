@@ -11,10 +11,10 @@ from Mikobot import app
 
 # List of additional images
 ADDITIONAL_IMAGES = [
-    "https://telegra.ph/file/7ef6006ed6e452a6fd871.jpg",
-    "https://telegra.ph/file/16ede7c046f35e699ed3c.jpg",
-    "https://telegra.ph/file/f16b555b2a66853cc594e.jpg",
-    "https://telegra.ph/file/7ef6006ed6e452a6fd871.jpg",
+    "https://i.ibb.co/PZRNWmQ/photo-2024-09-14-18-33-21-7414568704995754056.jpg",
+    "https://i.ibb.co/PZRNWmQ/photo-2024-09-14-18-33-21-7414568704995754056.jpg",
+    "https://i.ibb.co/PZRNWmQ/photo-2024-09-14-18-33-21-7414568704995754056.jpg",
+    "https://i.ibb.co/PZRNWmQ/photo-2024-09-14-18-33-21-7414568704995754056.jpg",
 ]
 
 
