@@ -1,7 +1,7 @@
 from pyrogram import filters
 
-from Mikobot import app
-from Mikobot.state import state
+from BrandrdXMusic import app
+from BrandrdXMusic.state import state
 
 # Configuration - The PALM API URL
 PALM_API_URL = "https://lexica.qewertyy.dev/models"
